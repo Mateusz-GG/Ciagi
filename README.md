@@ -3,12 +3,8 @@
 TO use this program , open console , add lenght of string ( Podaj długość ciągu) ,the C value in numbers and confirm it with ENTER , program will automaticly 
 count it.
 
-
-using System;
-
-namespace ciag
-
 {
+
     class Program
     {
         static void Main(string[] args)
